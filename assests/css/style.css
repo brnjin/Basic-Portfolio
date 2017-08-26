@@ -88,6 +88,7 @@ body {
 	background-image: url('../images/Concrete.png');
 }
 
+/* Naviagtion buttons and spacing*/
 .top {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: darkgrey;
@@ -97,7 +98,7 @@ body {
 	text-decoration: none;
 
 }
-
+/* Connect with me style */
 #icon-heading {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 20px;
@@ -112,6 +113,7 @@ body {
 	padding-top: 25px;	
 }
 
+/* Paragraphs in About me section */
 .height {
 	padding-top: 25px;
 	line-height: 160%;
@@ -121,6 +123,7 @@ body {
 	font-weight: 600;
 }
 
+/* Footer and text */
 #bot-section {
 	width: 100%;
 	height: 55px;
@@ -133,4 +136,32 @@ body {
 	padding-top: 40px;
 	font-size: 13px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.input {
+	width: 578px;
+	padding: 6px;
+	margin: 12px 0px 20px 0px;
+}
+
+#message {
+	width: 578px;
+	padding: 6px 12px 150px 0px;
+	margin: 12px 0px 20px 0px;
+}
+
+#submit {
+	color:white;
+	background-color: #4aaaa5;
+	padding: 10px 25px 10px 25px;
+	border: none;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.forms {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: grey;
 }

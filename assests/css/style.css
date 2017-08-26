@@ -60,7 +60,7 @@
 
 /* Changing the <hr> color ----------------------- */
 #bar {
-	border-color: lightgrey;
+	border-color: #dddddd;
 	margin:0px;
 	padding: 0px;
 }
@@ -76,7 +76,7 @@
 	height: 90px;
 	width: 100%;
 	background: white;
-	border-bottom: 2px solid lightgrey;
+	border-bottom: 2px solid #dddddd;
 }
 
 #nav {
@@ -128,7 +128,7 @@ body {
 #bot-section {
 	width: 100%;
 	height: 55px;
-	color: lightgrey;
+	color: #dddddd;
 	border-top: 7px solid #4aaaa5;
 	margin-top: 100px;
 	text-align: center;
